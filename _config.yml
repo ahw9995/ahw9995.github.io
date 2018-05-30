@@ -6,27 +6,27 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: WngLMng
-email: wnglmng@qq.com
+title: ahw9995
+email: ahw9998@gmail.com
 description: >
-  嗨，我是王立明，一名来自黑龙江省鹤岗市的男生。现于无线生活（北京），从事互联网开发工作。
+  개발과 관련된 기록들을 남기는 블로그
 logo: "/assets/images/logo.jpg"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://wnglmng.com" # the base hostname & protocol for your site
+url: "https://ahw9995.github.io" # the base hostname & protocol for your site
 paginate:	10 # The number of posts to show per page on your homepage
 
-name: 'WngLMng'
+name: 'HyungWook Charles Ahn'
 bio: >
-  嗨，我是王立明，一名来自黑龙江省鹤岗市的男生。现于无线生活（北京），从事互联网开发工作。
+  개발과 관련된 기록들을 남기는 블로그
 author_image: "/assets/images/author.jpg"
-github_username:  WngLMng
+github_username:  ahw9995
 
 permalink: /:year/:month/:title/
 paginate_path: "pages/:num/"
 highlighter: rouge
 
 # Google Analytics
-analytics_id: "86942437"
+# analytics_id: "86942437"
 
 # Build settings
 markdown: kramdown
